@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Aatif</h2>
 <h4 align="left">Database Administrator | Backend Developer in Progress 🚀</h4>
-
+<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 ---
 
 🌱 **Currently Learning:**  
@@ -16,7 +16,8 @@ Bridging the gap between **Backend Development** and **Database Administration**
 📫 **Reach me at:**  
 **shahaatifb@gmail.com**
 
----
+
+
 
 ### 🛠️ Languages and Tools
 
@@ -35,5 +36,9 @@ Bridging the gap between **Backend Development** and **Database Administration**
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" alt="aws logo"/>
 </div>
+
+
+
+
 
 ---
